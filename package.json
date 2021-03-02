@@ -1,0 +1,20 @@
+{
+  "name": "acme",
+  "version": "0.1.0",
+  "description": "Acme plumbing test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corvien/acme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corvien/acme/issues"
+  },
+  "homepage": "https://github.com/corvien/acme#readme"
+}
